@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: #ffff;
+    font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 62.5%;
+}
+
+.fondo2{
+    background-image: url(../ilus/rainCity1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.fondoAA{
+    background-color: #222A2F;
+    background-image: url(../ilus/blancoNegro.jpg);
+    background-repeat: repeat
+}
+
+.cuadroAA{
+
+    margin-top: 10%;
+    font-size: 20px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif
+
+}
+
+
+.cuadro {
+    margin-top: 10%;
+    font-size: 20px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+
+.i1{
+    background: #ffff;
+    margin: 15px;
+    padding: 20px;
+    width: 250px;
+    border-radius: 50px;
+}
+
+
+h3 {
+display:block
+
+}
+
+button  {
+    height: 20px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: #ffff;
+}
+
+
+
+
